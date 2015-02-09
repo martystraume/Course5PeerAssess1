@@ -9,7 +9,10 @@ This assignment makes use of data from a personal activity monitoring device. Th
 #### Data
 
 The data for this assignment can be downloaded from the course web site:
-.Dataset: Activity monitoring data [52K]
+
+- Dataset: Activity monitoring data [52K]
+
+    https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip
 
 ##### The variables included in this dataset are:
 
@@ -77,7 +80,7 @@ For this part the weekdays() function may be of some help here. Use the dataset 
 
 2. Make a panel plot containing a time series plot (i.e. type = "l") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). See the README file in the GitHub repository to see an example of what this plot should look like using simulated data.
 
-##### Submitting the Assignment
+#### Submitting the Assignment
 
 To submit the assignment:
 
